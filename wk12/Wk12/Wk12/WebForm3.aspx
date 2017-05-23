@@ -17,6 +17,7 @@
                     <ul class="nav nav-pills pull-right">
                         <li role="presentation" class="active"><a href="#">Home</a></li>
                         <li role="presentation"><a href="#CS功能">CS功能</a></li>
+                        <li role="presentation"><a href="#Javascrip簡介">Javascrip簡介</a></li>
                         <li role="presentation"><a href="#">Contact</a></li>
                     </ul>
                 </nav>
@@ -63,6 +64,30 @@
             <p class="lead">CS Math</p>
             <p class="lead">CS if</p>
             <p class="lead">CS for loop</p>
+        </div>
+        <div class="row marketing">
+            <div class="col-lg-4">
+                <p>CS I/O</p>
+                <img src="WebIO.png" />
+            </div>
+            <div class="col-lg-4">
+                <p>CS Math</p>
+                <img src="WebMath.png" />
+
+            </div>
+            <div class="col-lg-4">
+
+            </div>
+            <div class="col-lg-4">
+
+            </div>
+        </div>
+        <div id="Javascrip簡介" class="jumbotron">
+            <h1>Javascrip簡介</h1>
+            <p class="lead">Javascript 功能</p>
+            <p class="lead">Javascript 位置</p>
+            <p class="lead">Javascript 基本語法</p>
+            <p class="lead">Javascript 基本功能</p>
         </div>
         <div class="row marketing">
             <div class="col-lg-4">
