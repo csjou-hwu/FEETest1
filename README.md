@@ -1,6 +1,11 @@
 # FEETest1
 ### 用戶端網頁程式 1052
 ##Wk1
+使用Ｗ3C HTML 教學  修改成你理想頁面，內容包括你的學號姓名 <article> 部份加入表格，及版型大小顏色修改‥
+參考
+https://www.w3schools.com/html/default.asp
+https://www.w3schools.com/css/default.asp
+
 
 ##Wk2 課程簡介
 2-1 協同開發與版本控制工具Git GitHub
@@ -9,18 +14,43 @@
 2-4 boostrap
 
 ##Wk3 Javascript基礎
+使用Ｗ3C JavaScript 教學  印出學號-姓名加九九乘法，交完成後畫面
+學號 姓名
+----------------------------------
+2*1=2  3*1=3 ...
+2*2=4 3*2=6
+：
+ 
+使用參考
+https://www.w3schools.com/js/js_statements.asp
 
 
 ##Wk4 boostrap基礎
 
+編寫bootstrap 上傳github，並分享連結
+https://github.com/hwu-jason/hwuW4.git
 
-##Wk5 boostrap template 應用
-
+##Wk5 bootstrap template 實務應用
+使用bootstrap  教學  修改成你理想頁面，內容包括你的學號姓名，其他自由發揮上傳到github 並分享連結
+交完成參考連結
+https://github.com/hwu-jason/W5sample.git
 
 ##Wk6
 
 
 ##Wk7 github基礎與實作
+
+0-1 下載老師提供檔案 Download hwu-jason/W5sample
+0-2 git clone 個人專案 git clone https://github.com/csjou-hwu/W5Sample.git
+0-3 override 0-1 to 0-2
+
+7.1 更新github專案內容
+git add .
+C:\Users\User\Documents\wk7B\W5sample>git config --global user.email "csjou.hwu@
+gmail.com"
+C:\Users\User\Documents\wk7B\W5sample>git config --global user.name "csjou-hwu"
+git commit -m “upload template”
+git push -u origin master
 
 ##Wk8
 
