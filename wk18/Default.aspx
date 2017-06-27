@@ -72,7 +72,7 @@
                     </div>
                     <div class="collapse navbar-collapse" id="myNavbar">
                         <ul class="nav navbar-nav">
-                            <li class="active"><a href="#">回首頁</a></li>
+                            <li class="active"><a href="#首頁">回首頁</a></li>
                             <li><a href="#">English</a></li>
                             <li><a href="#">資訊學院網站</a></li>
                             <li><a href="#">學校首頁</a></li>
@@ -98,18 +98,18 @@
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img src="S1.jpg" alt="Los Angeles" style="width: 100%;">
+                            <img src="S1.jpg" alt="Los Angeles" style="width: 100%;" />
                         </div>
 
                         <div class="item">
-                            <img src="S2.jpg" alt="Chicago" style="width: 100%;">
+                            <img src="S2.jpg" alt="Chicago" style="width: 100%;" />
                         </div>
 
                         <div class="item">
-                            <img src="S3.jpg" alt="New york" style="width: 100%;">
+                            <img src="S3.jpg" alt="New york" style="width: 100%;" />
                         </div>
                         <div class="item">
-                            <img src="S4.jpg" alt="New york" style="width: 100%;">
+                            <img src="S4.jpg" alt="New york" style="width: 100%;" />
                         </div>
                     </div>
 
@@ -141,9 +141,14 @@
                         <p><a href="#">課程地圖</a></p>
                     </div>
                     <div class="col-sm-8 text-left">
+                        <div id="首頁" class="embed-responsive embed-responsive-16by9">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TJsfkbZqR0w"></iframe>
+                        </div>
+
                         <div id="系況簡介">
-                        <h1>系況簡介</h1>
-                        <p>資訊科技應用系係於93學年獲准成立，94學年正式招生；資訊科技應用研究所為95學年度獲准成立，96學年度正式招生。
+                            <h1>系況簡介</h1>
+                            <p>
+                                資訊科技應用系係於93學年獲准成立，94學年正式招生；資訊科技應用研究所為95學年度獲准成立，96學年度正式招生。
  
 資訊科技應用研究所是本校第一個成立之研究所，因此成立初期是校內商管及資訊學群之師資及資源共同投入，課程方向亦規劃為企業電子化應用及資訊科技開發兩個方向。
  
@@ -151,27 +156,20 @@
 
 本系研究與教學之發展目標是根據產業發展及政府政策來訂定。除依據政策及產業未來發展趨勢外，並邀集業界參與本系發展目標制定。由於資訊技術應用層面相當廣泛，在資訊人才培育的過程中，若僅侷限於一般資訊技術教學將無法滿足產業需求，畢業生就業機會亦受限。因此，配合資訊產業發展及政府政策，本系現階段(2015-)研究及教學發展目標為發展智能生活及遊戲互動技術。
 
-＊本系課程由基礎教起並具多元選擇性，歡迎商業類、電子類、電機類的學生報考本系，無論是否有資訊基礎，皆歡迎就讀。＊</p>
-                        <hr>
-                        <div id="師資介紹">
-                        <h1>師資介紹</h1>
-                            <img src="faculties.jpg" />
+＊本系課程由基礎教起並具多元選擇性，歡迎商業類、電子類、電機類的學生報考本系，無論是否有資訊基礎，皆歡迎就讀。＊
+                            </p>
+                            <hr>
+                            <div id="師資介紹">
+                                <h1>師資介紹</h1>
+                                <img src="faculties.jpg" />
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-sm-2 sidenav">
-                        <div class="well">
-                            <p>ADS</p>
-                        </div>
-                        <div class="well">
-                            <p>ADS</p>
-                        </div>
+
                     </div>
                 </div>
-            </div>
 
-            <footer class="container-fluid text-center">
-                <p>Footer Text</p>
-            </footer>
+
+            </div>
         </div>
     </form>
 </body>
