@@ -15,7 +15,7 @@ https://www.w3schools.com/css/default.asp
 
 ## Wk3 Javascript基礎
 
-使用Ｗ3C JavaScript 教學  印出學號-姓名加九九乘法，交完成後畫面
+3-1 使用Ｗ3C JavaScript 教學  印出學號-姓名加九九乘法，交完成後畫面
 學號 姓名
 ----------------------------------
 2*1=2  3*1=3 ...
